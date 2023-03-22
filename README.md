@@ -1,3 +1,4 @@
+
 # English translation of SGA4½ via OpenAI API
 
 This repository contains an [English translation](https://github.com/Shaw2048/translation/blob/main/SGA4%C2%BD.pdf) of Deligne's [SGA4½](https://publications.ias.edu/node/378).
@@ -6,6 +7,6 @@ Based on Daniel Miller's [LaTeX rendition](https://github.com/NomiL/sga4.5/) of 
 
 This very preliminary version surely contains many typos, and it will be updated frequently in the future. Currently, the last chapter on derived categories is missing (as my OpenAI API free trial is used up).
 
-Thanks to the power of AI nowadays, it is possible to easily eliminate many language barriers in math literature. The greatest thing is that one is able to entirely focus on the math part during translation. The language part is left to AI and a Python program.
+Thanks to the power of AI nowadays, it is possible to easily eliminate many language barriers in math literature. Excitedly, one is able to entirely focus on the math part during translation and leave the language part to AI (imported to a Python program).
 
-Source codes of this English SGA4½ and the translating program will be uploaded to this repository soon.
+Source codes of this English SGA4½ and the Python program will be uploaded to this repository soon. Some technical details will be provided soon as well.
